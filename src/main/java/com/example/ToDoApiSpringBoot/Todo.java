@@ -1,3 +1,4 @@
+// Robo POJO is used to generating the classes automatically.
 package com.example.ToDoApiSpringBoot;
 
 public class Todo{
