@@ -1,6 +1,10 @@
 // Robo POJO is used to generating the classes automatically.
 package com.example.ToDoApiSpringBoot;
 
+import jakarta.persistence.Entity;
+
+@Entity
+
 public class Todo{
     private int id;
     private boolean completed;
